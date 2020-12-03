@@ -1,0 +1,6 @@
+Merge sort - Czas
+Maly zbior liczb (100):
+0.0005965s
+
+Duzy zbior liczb (100000):
+ok. 0.1163198s
